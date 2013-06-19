@@ -16,6 +16,27 @@
 		A4B3E7A9172E701F0098A390 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = A4B3E7A8172E701F0098A390 /* Default.png */; };
 		A4B3E7AB172E701F0098A390 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A4B3E7AA172E701F0098A390 /* Default@2x.png */; };
 		A4B3E7AD172E701F0098A390 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A4B3E7AC172E701F0098A390 /* Default-568h@2x.png */; };
+		A4B3E7BC172E71320098A390 /* button_down.png in Resources */ = {isa = PBXBuildFile; fileRef = A4B3E7B4172E71320098A390 /* button_down.png */; };
+		A4B3E7BD172E71320098A390 /* button_up.png in Resources */ = {isa = PBXBuildFile; fileRef = A4B3E7B5172E71320098A390 /* button_up.png */; };
+		A4B3E7BE172E71320098A390 /* checkmarkControllerIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = A4B3E7B6172E71320098A390 /* checkmarkControllerIcon.png */; };
+		A4B3E7BF172E71320098A390 /* deleteMeIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = A4B3E7B7172E71320098A390 /* deleteMeIcon.png */; };
+		A4B3E7C0172E71320098A390 /* detailEditIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = A4B3E7B8172E71320098A390 /* detailEditIcon.png */; };
+		A4B3E7C1172E71320098A390 /* disclosureButtonControllerIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = A4B3E7B9172E71320098A390 /* disclosureButtonControllerIcon.png */; };
+		A4B3E7C2172E71320098A390 /* moveMeIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = A4B3E7BA172E71320098A390 /* moveMeIcon.png */; };
+		A4B3E7C3172E71320098A390 /* rowControlsIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = A4B3E7BB172E71320098A390 /* rowControlsIcon.png */; };
+		A4B3E7C6172E71410098A390 /* computers.plist in Resources */ = {isa = PBXBuildFile; fileRef = A4B3E7C4172E71410098A390 /* computers.plist */; };
+		A4B3E7C7172E71410098A390 /* Presidents.plist in Resources */ = {isa = PBXBuildFile; fileRef = A4B3E7C5172E71410098A390 /* Presidents.plist */; };
+		A4B3E7CA172E721C0098A390 /* BIDFirstLevelViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A4B3E7C9172E721B0098A390 /* BIDFirstLevelViewController.m */; };
+		A4B3E7CD172E74B90098A390 /* BIDSecondLevelViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A4B3E7CC172E74B90098A390 /* BIDSecondLevelViewController.m */; };
+		A4B3E7D0172E78730098A390 /* BIDDisclosureButtonViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A4B3E7CF172E78730098A390 /* BIDDisclosureButtonViewController.m */; };
+		A4B3E7D3172E78FF0098A390 /* BIDDisclosureDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A4B3E7D2172E78FF0098A390 /* BIDDisclosureDetailViewController.m */; };
+		A4B3E7D6172E79860098A390 /* BIDCheckListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A4B3E7D5172E79860098A390 /* BIDCheckListViewController.m */; };
+		A4B3E7D9172E7A330098A390 /* BIDRowControlsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A4B3E7D8172E7A330098A390 /* BIDRowControlsViewController.m */; };
+		A4B3E7DC172E7BB30098A390 /* BIDMoveMeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A4B3E7DB172E7BB30098A390 /* BIDMoveMeViewController.m */; };
+		A4B3E7DF172E7C140098A390 /* BIDDeleteMeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A4B3E7DE172E7C130098A390 /* BIDDeleteMeViewController.m */; };
+		A4B3E7E2172E7C700098A390 /* BIDPresident.m in Sources */ = {isa = PBXBuildFile; fileRef = A4B3E7E1172E7C6F0098A390 /* BIDPresident.m */; };
+		A4B3E7E5172E7CF00098A390 /* BIDPresidentDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A4B3E7E4172E7CF00098A390 /* BIDPresidentDetailViewController.m */; };
+		A4B3E7E8172E7DA00098A390 /* BIDPresidentsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A4B3E7E7172E7DA00098A390 /* BIDPresidentsViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +53,38 @@
 		A4B3E7A8172E701F0098A390 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
 		A4B3E7AA172E701F0098A390 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 		A4B3E7AC172E701F0098A390 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		A4B3E7B4172E71320098A390 /* button_down.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button_down.png; sourceTree = "<group>"; };
+		A4B3E7B5172E71320098A390 /* button_up.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button_up.png; sourceTree = "<group>"; };
+		A4B3E7B6172E71320098A390 /* checkmarkControllerIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = checkmarkControllerIcon.png; sourceTree = "<group>"; };
+		A4B3E7B7172E71320098A390 /* deleteMeIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = deleteMeIcon.png; sourceTree = "<group>"; };
+		A4B3E7B8172E71320098A390 /* detailEditIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = detailEditIcon.png; sourceTree = "<group>"; };
+		A4B3E7B9172E71320098A390 /* disclosureButtonControllerIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = disclosureButtonControllerIcon.png; sourceTree = "<group>"; };
+		A4B3E7BA172E71320098A390 /* moveMeIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = moveMeIcon.png; sourceTree = "<group>"; };
+		A4B3E7BB172E71320098A390 /* rowControlsIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rowControlsIcon.png; sourceTree = "<group>"; };
+		A4B3E7C4172E71410098A390 /* computers.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = computers.plist; sourceTree = "<group>"; };
+		A4B3E7C5172E71410098A390 /* Presidents.plist */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = Presidents.plist; sourceTree = "<group>"; };
+		A4B3E7C8172E721B0098A390 /* BIDFirstLevelViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BIDFirstLevelViewController.h; sourceTree = "<group>"; };
+		A4B3E7C9172E721B0098A390 /* BIDFirstLevelViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BIDFirstLevelViewController.m; sourceTree = "<group>"; };
+		A4B3E7CB172E74B90098A390 /* BIDSecondLevelViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BIDSecondLevelViewController.h; sourceTree = "<group>"; };
+		A4B3E7CC172E74B90098A390 /* BIDSecondLevelViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BIDSecondLevelViewController.m; sourceTree = "<group>"; };
+		A4B3E7CE172E78730098A390 /* BIDDisclosureButtonViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BIDDisclosureButtonViewController.h; sourceTree = "<group>"; };
+		A4B3E7CF172E78730098A390 /* BIDDisclosureButtonViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BIDDisclosureButtonViewController.m; sourceTree = "<group>"; };
+		A4B3E7D1172E78FF0098A390 /* BIDDisclosureDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BIDDisclosureDetailViewController.h; sourceTree = "<group>"; };
+		A4B3E7D2172E78FF0098A390 /* BIDDisclosureDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BIDDisclosureDetailViewController.m; sourceTree = "<group>"; };
+		A4B3E7D4172E79860098A390 /* BIDCheckListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BIDCheckListViewController.h; sourceTree = "<group>"; };
+		A4B3E7D5172E79860098A390 /* BIDCheckListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BIDCheckListViewController.m; sourceTree = "<group>"; };
+		A4B3E7D7172E7A330098A390 /* BIDRowControlsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BIDRowControlsViewController.h; sourceTree = "<group>"; };
+		A4B3E7D8172E7A330098A390 /* BIDRowControlsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BIDRowControlsViewController.m; sourceTree = "<group>"; };
+		A4B3E7DA172E7BB20098A390 /* BIDMoveMeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BIDMoveMeViewController.h; sourceTree = "<group>"; };
+		A4B3E7DB172E7BB30098A390 /* BIDMoveMeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BIDMoveMeViewController.m; sourceTree = "<group>"; };
+		A4B3E7DD172E7C130098A390 /* BIDDeleteMeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BIDDeleteMeViewController.h; sourceTree = "<group>"; };
+		A4B3E7DE172E7C130098A390 /* BIDDeleteMeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BIDDeleteMeViewController.m; sourceTree = "<group>"; };
+		A4B3E7E0172E7C6F0098A390 /* BIDPresident.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BIDPresident.h; sourceTree = "<group>"; };
+		A4B3E7E1172E7C6F0098A390 /* BIDPresident.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BIDPresident.m; sourceTree = "<group>"; };
+		A4B3E7E3172E7CEF0098A390 /* BIDPresidentDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BIDPresidentDetailViewController.h; sourceTree = "<group>"; };
+		A4B3E7E4172E7CF00098A390 /* BIDPresidentDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BIDPresidentDetailViewController.m; sourceTree = "<group>"; };
+		A4B3E7E6172E7D9F0098A390 /* BIDPresidentsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BIDPresidentsViewController.h; sourceTree = "<group>"; };
+		A4B3E7E7172E7DA00098A390 /* BIDPresidentsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BIDPresidentsViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +104,7 @@
 		A4B3E78A172E701F0098A390 = {
 			isa = PBXGroup;
 			children = (
+				A4B3E7B3172E711E0098A390 /* Images */,
 				A4B3E79C172E701F0098A390 /* Nav */,
 				A4B3E795172E701F0098A390 /* Frameworks */,
 				A4B3E794172E701F0098A390 /* Products */,
@@ -80,6 +134,28 @@
 			children = (
 				A4B3E7A5172E701F0098A390 /* BIDAppDelegate.h */,
 				A4B3E7A6172E701F0098A390 /* BIDAppDelegate.m */,
+				A4B3E7C8172E721B0098A390 /* BIDFirstLevelViewController.h */,
+				A4B3E7C9172E721B0098A390 /* BIDFirstLevelViewController.m */,
+				A4B3E7CB172E74B90098A390 /* BIDSecondLevelViewController.h */,
+				A4B3E7CC172E74B90098A390 /* BIDSecondLevelViewController.m */,
+				A4B3E7CE172E78730098A390 /* BIDDisclosureButtonViewController.h */,
+				A4B3E7CF172E78730098A390 /* BIDDisclosureButtonViewController.m */,
+				A4B3E7D1172E78FF0098A390 /* BIDDisclosureDetailViewController.h */,
+				A4B3E7D2172E78FF0098A390 /* BIDDisclosureDetailViewController.m */,
+				A4B3E7D4172E79860098A390 /* BIDCheckListViewController.h */,
+				A4B3E7D5172E79860098A390 /* BIDCheckListViewController.m */,
+				A4B3E7D7172E7A330098A390 /* BIDRowControlsViewController.h */,
+				A4B3E7D8172E7A330098A390 /* BIDRowControlsViewController.m */,
+				A4B3E7DA172E7BB20098A390 /* BIDMoveMeViewController.h */,
+				A4B3E7DB172E7BB30098A390 /* BIDMoveMeViewController.m */,
+				A4B3E7DD172E7C130098A390 /* BIDDeleteMeViewController.h */,
+				A4B3E7DE172E7C130098A390 /* BIDDeleteMeViewController.m */,
+				A4B3E7E0172E7C6F0098A390 /* BIDPresident.h */,
+				A4B3E7E1172E7C6F0098A390 /* BIDPresident.m */,
+				A4B3E7E3172E7CEF0098A390 /* BIDPresidentDetailViewController.h */,
+				A4B3E7E4172E7CF00098A390 /* BIDPresidentDetailViewController.m */,
+				A4B3E7E6172E7D9F0098A390 /* BIDPresidentsViewController.h */,
+				A4B3E7E7172E7DA00098A390 /* BIDPresidentsViewController.m */,
 				A4B3E79D172E701F0098A390 /* Supporting Files */,
 			);
 			path = Nav;
@@ -88,6 +164,8 @@
 		A4B3E79D172E701F0098A390 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				A4B3E7C4172E71410098A390 /* computers.plist */,
+				A4B3E7C5172E71410098A390 /* Presidents.plist */,
 				A4B3E79E172E701F0098A390 /* Nav-Info.plist */,
 				A4B3E79F172E701F0098A390 /* InfoPlist.strings */,
 				A4B3E7A2172E701F0098A390 /* main.m */,
@@ -97,6 +175,21 @@
 				A4B3E7AC172E701F0098A390 /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		A4B3E7B3172E711E0098A390 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				A4B3E7B4172E71320098A390 /* button_down.png */,
+				A4B3E7B5172E71320098A390 /* button_up.png */,
+				A4B3E7B6172E71320098A390 /* checkmarkControllerIcon.png */,
+				A4B3E7B7172E71320098A390 /* deleteMeIcon.png */,
+				A4B3E7B8172E71320098A390 /* detailEditIcon.png */,
+				A4B3E7B9172E71320098A390 /* disclosureButtonControllerIcon.png */,
+				A4B3E7BA172E71320098A390 /* moveMeIcon.png */,
+				A4B3E7BB172E71320098A390 /* rowControlsIcon.png */,
+			);
+			name = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -155,6 +248,16 @@
 				A4B3E7A9172E701F0098A390 /* Default.png in Resources */,
 				A4B3E7AB172E701F0098A390 /* Default@2x.png in Resources */,
 				A4B3E7AD172E701F0098A390 /* Default-568h@2x.png in Resources */,
+				A4B3E7BC172E71320098A390 /* button_down.png in Resources */,
+				A4B3E7BD172E71320098A390 /* button_up.png in Resources */,
+				A4B3E7BE172E71320098A390 /* checkmarkControllerIcon.png in Resources */,
+				A4B3E7BF172E71320098A390 /* deleteMeIcon.png in Resources */,
+				A4B3E7C0172E71320098A390 /* detailEditIcon.png in Resources */,
+				A4B3E7C1172E71320098A390 /* disclosureButtonControllerIcon.png in Resources */,
+				A4B3E7C2172E71320098A390 /* moveMeIcon.png in Resources */,
+				A4B3E7C3172E71320098A390 /* rowControlsIcon.png in Resources */,
+				A4B3E7C6172E71410098A390 /* computers.plist in Resources */,
+				A4B3E7C7172E71410098A390 /* Presidents.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -167,6 +270,17 @@
 			files = (
 				A4B3E7A3172E701F0098A390 /* main.m in Sources */,
 				A4B3E7A7172E701F0098A390 /* BIDAppDelegate.m in Sources */,
+				A4B3E7CA172E721C0098A390 /* BIDFirstLevelViewController.m in Sources */,
+				A4B3E7CD172E74B90098A390 /* BIDSecondLevelViewController.m in Sources */,
+				A4B3E7D0172E78730098A390 /* BIDDisclosureButtonViewController.m in Sources */,
+				A4B3E7D3172E78FF0098A390 /* BIDDisclosureDetailViewController.m in Sources */,
+				A4B3E7D6172E79860098A390 /* BIDCheckListViewController.m in Sources */,
+				A4B3E7D9172E7A330098A390 /* BIDRowControlsViewController.m in Sources */,
+				A4B3E7DC172E7BB30098A390 /* BIDMoveMeViewController.m in Sources */,
+				A4B3E7DF172E7C140098A390 /* BIDDeleteMeViewController.m in Sources */,
+				A4B3E7E2172E7C700098A390 /* BIDPresident.m in Sources */,
+				A4B3E7E5172E7CF00098A390 /* BIDPresidentDetailViewController.m in Sources */,
+				A4B3E7E8172E7DA00098A390 /* BIDPresidentsViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
